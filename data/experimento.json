@@ -1,0 +1,55 @@
+{
+  "actualizado": "2026-10-19",
+  "negocio": "Capa Crítica",
+  "inicio": "2026-10-19",
+  "fin": "2026-11-18",
+  "meta": 10000,
+  "presupuesto": 250,
+  "real": {
+    "gastos": [],
+    "cobros": [],
+    "costosDeCobro": [],
+    "aportesEnEspecie": []
+  },
+  "estimado": {
+    "precioMedioPieza": 390,
+    "fuentePrecioMedio": "Tramo M ($390), el más común del catálogo (docs/investigacion-y-decision.md §P.11)",
+    "metaPorCanal": [
+      { "canal": "Instagram / WhatsApp", "monto": 3000 },
+      { "canal": "MercadoLibre", "monto": 2000 },
+      { "canal": "Tiendas en consignación", "monto": 1000 },
+      { "canal": "Friki Fest 14–15/11 (stand no confirmado)", "monto": 4000 }
+    ],
+    "fuenteMetaPorCanal": "docs/investigacion-y-decision.md §P.1",
+    "controles": [
+      { "dia": 10, "fecha": "2026-10-28", "minimoCobrado": 2000, "siNo": "Reasignar esfuerzo al plan B (llaveros con nombre de fin de curso)" },
+      { "dia": 20, "fecha": "2026-11-07", "minimoCobrado": 4500, "siNo": "Sin stand: consignación en ≥ 2 tiendas y empuje de regalos de Navidad" }
+    ]
+  },
+  "prospectos": [
+    { "nombre": "Friki Fest 2026 (stand interactivo)", "tipo": "Evento 14–15/11", "url": "https://www.frikifest.com/actividades", "estado": "sin contactar" },
+    { "nombre": "DOKIFEST", "tipo": "Evento 8/11", "url": "https://eventosanime.uy/evento/110/dokifest", "estado": "sin contactar" },
+    { "nombre": "Expoconvention (área comercial)", "tipo": "Evento 31/10–1/11", "url": "https://expoconvention.uy/comercial.html", "estado": "sin contactar" },
+    { "nombre": "Wirewood", "tipo": "Tienda friki", "url": "https://jugones.uy/tiendas/wirewood/", "estado": "sin contactar" },
+    { "nombre": "Mulligan Center TCG", "tipo": "Tienda TCG", "url": "https://mulligancentertcg.com/", "estado": "sin contactar" },
+    { "nombre": "Mates y Magic", "tipo": "Tienda TCG (visita)", "url": "https://exa.ai/library/places?q=fa482472384b2611", "estado": "sin contactar" },
+    { "nombre": "Enigma Games", "tipo": "Tienda de juegos de mesa", "url": "https://enigmagames.uy/shop", "estado": "sin contactar" },
+    { "nombre": "Montevideo Gaming House", "tipo": "Tienda / comunidad gamer", "url": "https://montevideogaminghouse.com/", "estado": "sin contactar" },
+    { "nombre": "Frikantec", "tipo": "Tienda friki", "url": "https://frikantec.com.uy/", "estado": "sin contactar" },
+    { "nombre": "Dungeon TCG", "tipo": "Tienda TCG", "url": "https://www.facebook.com/2304595963153603", "estado": "sin contactar" }
+  ],
+  "proximasAcciones": [
+    { "accion": "Imprimir las primeras 10 piezas de stock (2–3 de cada producto estrella) y sacarles fotos", "responsable": "Franco", "fecha": "2026-10-21" },
+    { "accion": "Importar los 200 modelos curados a la web (npm run importar-catalogo)", "responsable": "Agente", "fecha": "2026-10-21" },
+    { "accion": "Reemplazar imágenes placeholder por fotos propias a medida que se imprimen", "responsable": "Agente + Franco", "fecha": "continuo" },
+    { "accion": "Cargar en este tablero cada gasto, cobro y aporte en especie", "responsable": "Agente", "fecha": "continuo" }
+  ],
+  "accionesUsuario": [
+    { "accion": "Publicar la web: crear el repositorio y activar GitHub Pages (ver README)", "estado": "pendiente" },
+    { "accion": "Crear la cuenta de Instagram @capacritica y subir el kit (docs/instagram.md)", "estado": "pendiente" },
+    { "accion": "Mandar el email a Friki Fest pidiendo stand interactivo (docs/borradores-de-contacto.md §1)", "estado": "pendiente" },
+    { "accion": "Preguntar a los padres cuánto filamento aportan (para registrarlo como aporte en especie)", "estado": "pendiente" },
+    { "accion": "Crear 5 publicaciones en MercadoLibre con los productos en stock", "estado": "pendiente" },
+    { "accion": "Contactar 3–4 tiendas TCG para consignación (docs/borradores-de-contacto.md §2)", "estado": "pendiente" }
+  ]
+}

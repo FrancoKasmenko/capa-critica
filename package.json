@@ -1,0 +1,42 @@
+{
+  "name": "capa-critica",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 4317 -H 0.0.0.0",
+    "prebuild": "node scripts/validar-catalogo.mjs",
+    "build": "next build",
+    "start": "npx serve out -l 4317",
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "validar-catalogo": "node scripts/validar-catalogo.mjs",
+    "importar-catalogo": "node scripts/importar-catalogo.mjs",
+    "generar-marca": "node scripts/generar-marca.mjs",
+    "generar-instagram": "node scripts/generar-instagram.mjs"
+  },
+  "dependencies": {
+    "@base-ui/react": "^1.9.0",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^1.59.0",
+    "next": "15.5.28",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "shadcn": "^4.22.1",
+    "tailwind-merge": "^3.7.0",
+    "tw-animate-css": "^1.4.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@resvg/resvg-js": "^2.6.2",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.28",
+    "opentype.js": "^1.3.4",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
