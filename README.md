@@ -30,10 +30,10 @@ Analítica opcional sin cookies: crear un sitio en Cloudflare Web Analytics (gra
 
 El esquema está documentado en [`docs/ESQUEMA-CATALOGO.md`](docs/ESQUEMA-CATALOGO.md) y lo valida `scripts/lib/catalogo-schema.mjs` antes de cada build: categorías, tramos de precio (S $190 · M $390 · L $590 · XL $890 · XXL desde $1.290), licencias permitidas (CC0, CC BY, CC BY-SA, CC BY-ND) y ausencia de marcas registradas.
 
-Hoy tiene **8 productos de ejemplo** (`placeholder: true`, con ilustraciones, marcados "EJEMPLO" en la web y excluidos del sitemap). Para cargar el catálogo curado:
+El catálogo publicado son **200 modelos reales** con foto local en `public/productos/` (sin hotlink). Para recargar desde el store del proyecto:
 
 ```bash
-npm run importar-catalogo                     # desde el store del proyecto (produccion/catalogo/productos.json)
+npm run importar-catalogo                     # desde produccion/catalogo/productos.json
 npm run importar-catalogo -- ruta/productos.json
 ```
 
