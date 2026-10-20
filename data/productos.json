@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "actualizado": "2026-10-19",
+  "actualizado": "2026-10-20",
   "avance": {
     "objetivo": 200,
-    "incluidos": 200,
+    "incluidos": 231,
     "porCategoria": {
-      "anime-criaturas": 60,
-      "gamer-setup": 40,
+      "anime-criaturas": 89,
+      "gamer-setup": 41,
       "rol-mesa": 40,
       "tcg-cartas": 30,
-      "fidgets-llaveros": 30
+      "fidgets-llaveros": 31
     },
     "stockRecomendado": 18,
     "fuenteGramos": {
@@ -8286,6 +8286,1235 @@
       "licenciaVerificada": "2026-10-19",
       "medidas": "pieza más larga 3.6 cm (4 piezas)",
       "printInPlace": false,
+      "gramosFuente": "malla",
+      "horasFuente": "estimado-a1"
+    },
+    {
+      "id": "figura-articulada-dummy-13",
+      "nombre": "Figura articulada Dummy 13",
+      "categoria": "anime-criaturas",
+      "descripcion": "Figura articulada Dummy 13. Figura o busto estilo anime/juegos para escritorio o estantería.",
+      "tramo": "M",
+      "gramos": 33,
+      "horasImpresion": 2.6,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Blanco",
+        "Negro"
+      ],
+      "multicolor": false,
+      "personalizable": true,
+      "etiquetas": [
+        "figura",
+        "anime"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/figura-articulada-dummy-13.webp",
+        "alt": "Figura articulada Dummy 13",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "soozafone",
+        "url": "https://www.printables.com/@soozafone"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/981111-dummy-13-version-10"
+      },
+      "licencia": "CC BY",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": false,
+      "gramosFuente": "malla",
+      "horasFuente": "estimado-a1"
+    },
+    {
+      "id": "figura-articulada-lucky-13",
+      "nombre": "Figura articulada Lucky 13",
+      "categoria": "anime-criaturas",
+      "descripcion": "Figura articulada Lucky 13. Figura o busto estilo anime/juegos para escritorio o estantería. Se imprime articulada o de una pieza.",
+      "tramo": "M",
+      "gramos": 64,
+      "horasImpresion": 10.98,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Blanco",
+        "Negro"
+      ],
+      "multicolor": false,
+      "personalizable": true,
+      "etiquetas": [
+        "figura",
+        "anime",
+        "articulado"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/figura-articulada-lucky-13.webp",
+        "alt": "Figura articulada Lucky 13",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "soozafone",
+        "url": "https://www.printables.com/@soozafone"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/148367-lucky-13-printable-jointed-figure"
+      },
+      "licencia": "CC BY",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": true,
+      "gramosFuente": "perfil",
+      "horasFuente": "perfil"
+    },
+    {
+      "id": "robot-articulado-mini",
+      "nombre": "Robot articulado mini",
+      "categoria": "anime-criaturas",
+      "descripcion": "Robot articulado mini. Figura o busto estilo anime/juegos para escritorio o estantería. Se imprime articulada o de una pieza.",
+      "tramo": "L",
+      "gramos": 114,
+      "horasImpresion": 9.1,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Blanco",
+        "Negro"
+      ],
+      "multicolor": false,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime",
+        "articulado"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/robot-articulado-mini.webp",
+        "alt": "Robot articulado mini",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "PoIar B34R",
+        "url": "https://www.printables.com/@PoIarB34R_990496"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/569743-mini-articulated-robot"
+      },
+      "licencia": "CC BY-SA",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": true,
+      "gramosFuente": "malla",
+      "horasFuente": "estimado-a1"
+    },
+    {
+      "id": "figura-vanguard-13",
+      "nombre": "Figura Vanguard 13",
+      "categoria": "anime-criaturas",
+      "descripcion": "Figura Vanguard 13. Figura o busto estilo anime/juegos para escritorio o estantería.",
+      "tramo": "M",
+      "gramos": 37,
+      "horasImpresion": 3,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Blanco",
+        "Negro"
+      ],
+      "multicolor": false,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/figura-vanguard-13.webp",
+        "alt": "Figura Vanguard 13",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "Cap'n Corny",
+        "url": "https://www.printables.com/@Capn_Corny"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/1228150-vanguard-13-a-full-dummy-13-conversion"
+      },
+      "licencia": "CC BY",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": false,
+      "gramosFuente": "malla",
+      "horasFuente": "estimado-a1"
+    },
+    {
+      "id": "perro-fido-articulado",
+      "nombre": "Perro Fido articulado",
+      "categoria": "anime-criaturas",
+      "descripcion": "Perro Fido articulado. Figura o busto estilo anime/juegos para escritorio o estantería.",
+      "tramo": "S",
+      "gramos": 24,
+      "horasImpresion": 1.9,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Marrón",
+        "Blanco"
+      ],
+      "multicolor": false,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/perro-fido-articulado.webp",
+        "alt": "Perro Fido articulado",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "Martin_au",
+        "url": "https://www.printables.com/@Martin_au"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/841945-fido-friendly-interactive-doggish-object-lucky-13s"
+      },
+      "licencia": "CC BY",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": false,
+      "gramosFuente": "malla",
+      "horasFuente": "estimado-a1"
+    },
+    {
+      "id": "gargola-mini",
+      "nombre": "Gárgola mini",
+      "categoria": "anime-criaturas",
+      "descripcion": "Gárgola mini. Figura o busto estilo anime/juegos para escritorio o estantería.",
+      "tramo": "XL",
+      "gramos": 214,
+      "horasImpresion": 17.1,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Gris",
+        "Verde"
+      ],
+      "multicolor": false,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/gargola-mini.webp",
+        "alt": "Gárgola mini",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "3D Printy",
+        "url": "https://www.printables.com/@3DPrinty"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/1020039-mini-gargoyle-sculptember-model-10"
+      },
+      "licencia": "CC BY",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": false,
+      "gramosFuente": "malla",
+      "horasFuente": "estimado-a1"
+    },
+    {
+      "id": "mascara-oni-samurai",
+      "nombre": "Máscara oni samurái",
+      "categoria": "anime-criaturas",
+      "descripcion": "Máscara oni samurái. Figura o busto estilo anime/juegos para escritorio o estantería.",
+      "tramo": "XXL",
+      "gramos": 319,
+      "horasImpresion": 25.5,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Rojo",
+        "Negro"
+      ],
+      "multicolor": true,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime",
+        "máscara",
+        "cosplay"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/mascara-oni-samurai.webp",
+        "alt": "Máscara oni samurái",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "Jose L. González",
+        "url": "https://www.printables.com/@JoseLuisGZA"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/988521-oni-mask-samurai-mask-3"
+      },
+      "licencia": "CC BY-SA",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": false,
+      "gramosFuente": "malla",
+      "horasFuente": "estimado-a1"
+    },
+    {
+      "id": "mascara-oni-samurai-2",
+      "nombre": "Máscara oni samurái 2",
+      "categoria": "anime-criaturas",
+      "descripcion": "Máscara oni samurái 2. Figura o busto estilo anime/juegos para escritorio o estantería.",
+      "tramo": "XXL",
+      "gramos": 443,
+      "horasImpresion": 35.4,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Rojo",
+        "Negro"
+      ],
+      "multicolor": true,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime",
+        "máscara",
+        "cosplay"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/mascara-oni-samurai-2.webp",
+        "alt": "Máscara oni samurái 2",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "Jose L. González",
+        "url": "https://www.printables.com/@JoseLuisGZA"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/988500-oni-mask-samurai-mask-2"
+      },
+      "licencia": "CC BY-SA",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": false,
+      "gramosFuente": "malla",
+      "horasFuente": "estimado-a1",
+      "precio": 1890
+    },
+    {
+      "id": "mascara-oni-samurai-1",
+      "nombre": "Máscara oni samurái 1",
+      "categoria": "anime-criaturas",
+      "descripcion": "Máscara oni samurái 1. Figura o busto estilo anime/juegos para escritorio o estantería.",
+      "tramo": "XXL",
+      "gramos": 509,
+      "horasImpresion": 40.7,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Rojo",
+        "Negro"
+      ],
+      "multicolor": true,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime",
+        "máscara",
+        "cosplay"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/mascara-oni-samurai-1.webp",
+        "alt": "Máscara oni samurái 1",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "Jose L. González",
+        "url": "https://www.printables.com/@JoseLuisGZA"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/987218-oni-mask-samurai-mask-1"
+      },
+      "licencia": "CC BY-SA",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": false,
+      "gramosFuente": "malla",
+      "horasFuente": "estimado-a1",
+      "precio": 1890
+    },
+    {
+      "id": "busto-de-elfa-arquera",
+      "nombre": "Busto de elfa arquera",
+      "categoria": "anime-criaturas",
+      "descripcion": "Busto de elfa arquera. Figura o busto estilo anime/juegos para escritorio o estantería.",
+      "tramo": "S",
+      "gramos": 22,
+      "horasImpresion": 1.8,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Verde",
+        "Dorado"
+      ],
+      "multicolor": false,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/busto-de-elfa-arquera.webp",
+        "alt": "Busto de elfa arquera",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "iczfirz",
+        "url": "https://www.printables.com/@iczfirz"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/59088-elf-archer-bust-support-free"
+      },
+      "licencia": "CC BY",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": false,
+      "gramosFuente": "malla",
+      "horasFuente": "estimado-a1"
+    },
+    {
+      "id": "doctor-de-la-peste",
+      "nombre": "Doctor de la peste",
+      "categoria": "anime-criaturas",
+      "descripcion": "Doctor de la peste. Figura o busto estilo anime/juegos para escritorio o estantería.",
+      "tramo": "M",
+      "gramos": 50,
+      "horasImpresion": 4,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Negro",
+        "Gris"
+      ],
+      "multicolor": false,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/doctor-de-la-peste.webp",
+        "alt": "Doctor de la peste",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "Pomeranč",
+        "url": "https://www.printables.com/@Pomeranc"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/1684458-plague-doctor"
+      },
+      "licencia": "CC BY-ND",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": false,
+      "gramosFuente": "malla",
+      "horasFuente": "estimado-a1"
+    },
+    {
+      "id": "fantasma-kawaii",
+      "nombre": "Fantasma kawaii",
+      "categoria": "anime-criaturas",
+      "descripcion": "Fantasma kawaii. Figura o busto estilo anime/juegos para escritorio o estantería.",
+      "tramo": "M",
+      "gramos": 44,
+      "horasImpresion": 3.5,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Rosa",
+        "Blanco"
+      ],
+      "multicolor": false,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/fantasma-kawaii.webp",
+        "alt": "Fantasma kawaii",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "ChepeCarlos",
+        "url": "https://www.printables.com/@ChepeCarlos"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/305751-ghost-kawai"
+      },
+      "licencia": "CC BY",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": false,
+      "gramosFuente": "malla",
+      "horasFuente": "estimado-a1"
+    },
+    {
+      "id": "trio-de-buditas",
+      "nombre": "Trío de buditas",
+      "categoria": "anime-criaturas",
+      "descripcion": "Trío de buditas. Figura o busto estilo anime/juegos para escritorio o estantería.",
+      "tramo": "M",
+      "gramos": 64,
+      "horasImpresion": 4.33,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Negro",
+        "Blanco"
+      ],
+      "multicolor": false,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/trio-de-buditas.webp",
+        "alt": "Trío de buditas",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "Bombastus Hands",
+        "url": "https://www.printables.com/@BombastusHands"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/720109-3-cute-litte-buddha-figures-smoothed"
+      },
+      "licencia": "CC BY-SA",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": false,
+      "gramosFuente": "perfil",
+      "horasFuente": "perfil"
+    },
+    {
+      "id": "angel-estilo-anime",
+      "nombre": "Ángel estilo anime",
+      "categoria": "anime-criaturas",
+      "descripcion": "Ángel estilo anime. Figura o busto estilo anime/juegos para escritorio o estantería.",
+      "tramo": "S",
+      "gramos": 25,
+      "horasImpresion": 2,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Blanco",
+        "Dorado"
+      ],
+      "multicolor": false,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/angel-estilo-anime.webp",
+        "alt": "Ángel estilo anime",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "Roland Brandt",
+        "url": "https://www.printables.com/@RolandBrandt_3509681"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/1404900-anime-angel-statue"
+      },
+      "licencia": "CC0",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": false,
+      "gramosFuente": "malla",
+      "horasFuente": "estimado-a1"
+    },
+    {
+      "id": "chibi-kawaii",
+      "nombre": "Chibi kawaii",
+      "categoria": "anime-criaturas",
+      "descripcion": "Chibi kawaii. Figura o busto estilo anime/juegos para escritorio o estantería.",
+      "tramo": "S",
+      "gramos": 22,
+      "horasImpresion": 1.8,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Rosa",
+        "Blanco"
+      ],
+      "multicolor": false,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/chibi-kawaii.webp",
+        "alt": "Chibi kawaii",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "Brave 3D",
+        "url": "https://www.printables.com/@BravePrints_976377"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/1147449-cute-anime-style-chibi-girl-3d-model-for-3d-printi"
+      },
+      "licencia": "CC BY",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": false,
+      "gramosFuente": "malla",
+      "horasFuente": "estimado-a1"
+    },
+    {
+      "id": "robot-articulado-de-accion",
+      "nombre": "Robot articulado de acción",
+      "categoria": "anime-criaturas",
+      "descripcion": "Robot articulado de acción. Figura o busto estilo anime/juegos para escritorio o estantería. Se imprime articulada o de una pieza.",
+      "tramo": "XL",
+      "gramos": 162,
+      "horasImpresion": 13,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Blanco",
+        "Negro"
+      ],
+      "multicolor": false,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime",
+        "articulado"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/robot-articulado-de-accion.webp",
+        "alt": "Robot articulado de acción",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "Dustin's 3d Toy Designs",
+        "url": "https://www.printables.com/@DustinBobber_3152746"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/1308068-articulated-robot-action-figure"
+      },
+      "licencia": "CC BY",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": true,
+      "gramosFuente": "malla",
+      "horasFuente": "estimado-a1"
+    },
+    {
+      "id": "figura-ninja",
+      "nombre": "Figura ninja",
+      "categoria": "anime-criaturas",
+      "descripcion": "Figura ninja. Figura o busto estilo anime/juegos para escritorio o estantería.",
+      "tramo": "M",
+      "gramos": 66,
+      "horasImpresion": 5.3,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Negro",
+        "Rojo"
+      ],
+      "multicolor": false,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/figura-ninja.webp",
+        "alt": "Figura ninja",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "Reagan Swan",
+        "url": "https://www.printables.com/@ReaganSwan_801764"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/854064-ninja-figure"
+      },
+      "licencia": "CC0",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": false,
+      "gramosFuente": "malla",
+      "horasFuente": "estimado-a1"
+    },
+    {
+      "id": "fantasma-chibi",
+      "nombre": "Fantasma chibi",
+      "categoria": "anime-criaturas",
+      "descripcion": "Fantasma chibi. Figura o busto estilo anime/juegos para escritorio o estantería.",
+      "tramo": "M",
+      "gramos": 31,
+      "horasImpresion": 4.57,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Rosa",
+        "Blanco"
+      ],
+      "multicolor": false,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/fantasma-chibi.webp",
+        "alt": "Fantasma chibi",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "3DTimon",
+        "url": "https://www.printables.com/@3DTimonAT"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/1384183-chibi-ghost-3d-printable-figure"
+      },
+      "licencia": "CC0",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": false,
+      "gramosFuente": "perfil",
+      "horasFuente": "perfil"
+    },
+    {
+      "id": "gargola-de-monitor",
+      "nombre": "Gárgola de monitor",
+      "categoria": "gamer-setup",
+      "descripcion": "Gárgola de monitor. Figura o busto estilo anime/juegos para escritorio o estantería.",
+      "tramo": "S",
+      "gramos": 21,
+      "horasImpresion": 1.7,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Rojo",
+        "Negro"
+      ],
+      "multicolor": false,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/gargola-de-monitor.webp",
+        "alt": "Gárgola de monitor",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "mhparsons",
+        "url": "https://www.printables.com/@mhparsons"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/742593-monitor-gargoyle"
+      },
+      "licencia": "CC BY-SA",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": false,
+      "gramosFuente": "malla",
+      "horasFuente": "estimado-a1"
+    },
+    {
+      "id": "angel-rezando",
+      "nombre": "Ángel rezando",
+      "categoria": "anime-criaturas",
+      "descripcion": "Ángel rezando. Figura o busto estilo anime/juegos para escritorio o estantería.",
+      "tramo": "M",
+      "gramos": 63,
+      "horasImpresion": 5,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Blanco",
+        "Dorado"
+      ],
+      "multicolor": false,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/angel-rezando.webp",
+        "alt": "Ángel rezando",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "Stigern",
+        "url": "https://www.printables.com/@Stigern"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/1279592-graceful-praying-angel-statue"
+      },
+      "licencia": "CC BY-ND",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": false,
+      "gramosFuente": "malla",
+      "horasFuente": "estimado-a1"
+    },
+    {
+      "id": "kitsune-en-taza-de-te",
+      "nombre": "Kitsune en taza de té",
+      "categoria": "anime-criaturas",
+      "descripcion": "Kitsune en taza de té. Figura o busto estilo anime/juegos para escritorio o estantería.",
+      "tramo": "M",
+      "gramos": 42,
+      "horasImpresion": 3.78,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Naranja",
+        "Blanco"
+      ],
+      "multicolor": false,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/kitsune-en-taza-de-te.webp",
+        "alt": "Kitsune en taza de té",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "KyuubiNight",
+        "url": "https://www.printables.com/@KyuubiNight"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/638396-kitsune-bathing-in-a-tea-cup"
+      },
+      "licencia": "CC BY-SA",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": false,
+      "gramosFuente": "perfil",
+      "horasFuente": "perfil"
+    },
+    {
+      "id": "kitsune-flexi",
+      "nombre": "Kitsune flexi",
+      "categoria": "anime-criaturas",
+      "descripcion": "Kitsune flexi. Figura o busto estilo anime/juegos para escritorio o estantería. Se imprime articulada o de una pieza.",
+      "tramo": "S",
+      "gramos": 30,
+      "horasImpresion": 2.4,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Naranja",
+        "Blanco"
+      ],
+      "multicolor": false,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime",
+        "articulado"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/kitsune-flexi.webp",
+        "alt": "Kitsune flexi",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "Ky3_actual",
+        "url": "https://www.printables.com/@Ky3_actual"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/84231-flexi-kitsune"
+      },
+      "licencia": "CC BY",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": true,
+      "gramosFuente": "malla",
+      "horasFuente": "estimado-a1"
+    },
+    {
+      "id": "mascara-oni-del-viento",
+      "nombre": "Máscara oni del viento",
+      "categoria": "anime-criaturas",
+      "descripcion": "Máscara oni del viento. Figura o busto estilo anime/juegos para escritorio o estantería.",
+      "tramo": "M",
+      "gramos": 58,
+      "horasImpresion": 2.54,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Rojo",
+        "Negro"
+      ],
+      "multicolor": false,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime",
+        "máscara",
+        "cosplay"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/mascara-oni-del-viento.webp",
+        "alt": "Máscara oni del viento",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "GiGo",
+        "url": "https://www.printables.com/@GiGo"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/1775203-japanese-elemental-airwind-demon-oni-mask-onikaze"
+      },
+      "licencia": "CC0",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": false,
+      "gramosFuente": "perfil",
+      "horasFuente": "perfil"
+    },
+    {
+      "id": "corazon-articulado",
+      "nombre": "Corazón articulado",
+      "categoria": "fidgets-llaveros",
+      "descripcion": "Corazón articulado. Figura o busto estilo anime/juegos para escritorio o estantería. Se imprime articulada o de una pieza.",
+      "tramo": "M",
+      "gramos": 35,
+      "horasImpresion": 2.8,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Rojo",
+        "Rosa"
+      ],
+      "multicolor": false,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime",
+        "articulado"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/corazon-articulado.webp",
+        "alt": "Corazón articulado",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "Austin Hansen",
+        "url": "https://www.printables.com/@AustinHansen_3494027"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/1578043-articulated-heart-figure-with-legs-and-arms"
+      },
+      "licencia": "CC0",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": true,
+      "gramosFuente": "malla",
+      "horasFuente": "estimado-a1"
+    },
+    {
+      "id": "angel-hexa",
+      "nombre": "Ángel hexa",
+      "categoria": "anime-criaturas",
+      "descripcion": "Ángel hexa. Figura o busto estilo anime/juegos para escritorio o estantería.",
+      "tramo": "S",
+      "gramos": 13,
+      "horasImpresion": 1,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Blanco",
+        "Dorado"
+      ],
+      "multicolor": false,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/angel-hexa.webp",
+        "alt": "Ángel hexa",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "Roland Brandt",
+        "url": "https://www.printables.com/@RolandBrandt_3509681"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/1401113-angel-hexa-statue"
+      },
+      "licencia": "CC0",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": false,
+      "gramosFuente": "malla",
+      "horasFuente": "estimado-a1"
+    },
+    {
+      "id": "busto-dragon-steampunk",
+      "nombre": "Busto dragón steampunk",
+      "categoria": "anime-criaturas",
+      "descripcion": "Busto dragón steampunk. Figura o busto estilo anime/juegos para escritorio o estantería.",
+      "tramo": "S",
+      "gramos": 29,
+      "horasImpresion": 2.3,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Verde",
+        "Negro"
+      ],
+      "multicolor": false,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/busto-dragon-steampunk.webp",
+        "alt": "Busto dragón steampunk",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "Roland Brandt",
+        "url": "https://www.printables.com/@RolandBrandt_3509681"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/1404165-steampunk-dragon-bust"
+      },
+      "licencia": "CC0",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": false,
+      "gramosFuente": "malla",
+      "horasFuente": "estimado-a1"
+    },
+    {
+      "id": "robot-flexi-con-corazon",
+      "nombre": "Robot flexi con corazón",
+      "categoria": "anime-criaturas",
+      "descripcion": "Robot flexi con corazón. Figura o busto estilo anime/juegos para escritorio o estantería. Se imprime articulada o de una pieza.",
+      "tramo": "S",
+      "gramos": 27,
+      "horasImpresion": 3.38,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Blanco",
+        "Negro"
+      ],
+      "multicolor": false,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime",
+        "articulado"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/robot-flexi-con-corazon.webp",
+        "alt": "Robot flexi con corazón",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "HP",
+        "url": "https://www.printables.com/@HP_979587"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/1185673-flexi-robot-with-a-heart-print-in-place"
+      },
+      "licencia": "CC BY",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": true,
+      "gramosFuente": "perfil",
+      "horasFuente": "perfil"
+    },
+    {
+      "id": "robot-flexi",
+      "nombre": "Robot flexi",
+      "categoria": "anime-criaturas",
+      "descripcion": "Robot flexi. Figura o busto estilo anime/juegos para escritorio o estantería. Se imprime articulada o de una pieza.",
+      "tramo": "S",
+      "gramos": 14,
+      "horasImpresion": 1.1,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Blanco",
+        "Negro"
+      ],
+      "multicolor": false,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime",
+        "articulado"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/robot-flexi.webp",
+        "alt": "Robot flexi",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "AndrewKasper",
+        "url": "https://www.printables.com/@AndrewKasper_254144"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/1197305-flexi-robot"
+      },
+      "licencia": "CC BY",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": true,
+      "gramosFuente": "malla",
+      "horasFuente": "estimado-a1"
+    },
+    {
+      "id": "robot-flexi-sin-soportes",
+      "nombre": "Robot flexi sin soportes",
+      "categoria": "anime-criaturas",
+      "descripcion": "Robot flexi sin soportes. Figura o busto estilo anime/juegos para escritorio o estantería. Se imprime articulada o de una pieza.",
+      "tramo": "S",
+      "gramos": 26,
+      "horasImpresion": 2.1,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Blanco",
+        "Negro"
+      ],
+      "multicolor": false,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime",
+        "articulado"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/robot-flexi-sin-soportes.webp",
+        "alt": "Robot flexi sin soportes",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "PABLO OYARZUN",
+        "url": "https://www.printables.com/@PABLOOYARZUN_1740230"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/1042006-flexi-robot-no-supports-needed"
+      },
+      "licencia": "CC BY",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": true,
+      "gramosFuente": "malla",
+      "horasFuente": "estimado-a1"
+    },
+    {
+      "id": "robot-flexi-clasico",
+      "nombre": "Robot flexi clásico",
+      "categoria": "anime-criaturas",
+      "descripcion": "Robot flexi clásico. Figura o busto estilo anime/juegos para escritorio o estantería. Se imprime articulada o de una pieza.",
+      "tramo": "M",
+      "gramos": 33,
+      "horasImpresion": 2.6,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Blanco",
+        "Negro"
+      ],
+      "multicolor": false,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime",
+        "articulado"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/robot-flexi-clasico.webp",
+        "alt": "Robot flexi clásico",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "Chaim Berlin",
+        "url": "https://www.printables.com/@ich_bin_a_yid"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/508102-flexi-robot"
+      },
+      "licencia": "CC0",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": true,
+      "gramosFuente": "malla",
+      "horasFuente": "estimado-a1"
+    },
+    {
+      "id": "robot-articulado-flexi",
+      "nombre": "Robot articulado flexi",
+      "categoria": "anime-criaturas",
+      "descripcion": "Robot articulado flexi. Figura o busto estilo anime/juegos para escritorio o estantería. Se imprime articulada o de una pieza.",
+      "tramo": "S",
+      "gramos": 11,
+      "horasImpresion": 0.9,
+      "disponibilidad": "pedido",
+      "colores": [
+        "Blanco",
+        "Negro"
+      ],
+      "multicolor": false,
+      "personalizable": false,
+      "etiquetas": [
+        "figura",
+        "anime",
+        "articulado"
+      ],
+      "destacado": false,
+      "imagen": {
+        "archivo": "imagenes/robot-articulado-flexi.webp",
+        "alt": "Robot articulado flexi",
+        "tipo": "foto-autor"
+      },
+      "autor": {
+        "nombre": "Green Prints Stuff",
+        "url": "https://www.printables.com/@GreenPrintsStuff"
+      },
+      "modelo": {
+        "plataforma": "Printables",
+        "url": "https://www.printables.com/model/825627-flexi-articulated-robot-man"
+      },
+      "licencia": "CC0",
+      "licenciaVerificada": "2026-10-20",
+      "printInPlace": true,
       "gramosFuente": "malla",
       "horasFuente": "estimado-a1"
     }
